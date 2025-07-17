@@ -11,4 +11,4 @@ Working web development projects<br>Open-source projects, or building tools rela
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=parampanwar&icon=0&color=0)](https://visitcount.itsvg.in)
+[](https://visitcount.itsvg.in/api?id=parampanwar&icon=0&color=0)](https://visitcount.itsvg.in)
