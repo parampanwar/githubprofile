@@ -11,5 +11,5 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=parampanwar&theme=light&hide_border=true&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=parampanwar&theme=light&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parampanwar&theme=light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=parampanwar&theme=light&hide_border=true)
