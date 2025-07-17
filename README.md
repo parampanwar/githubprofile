@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                                                             💫 Hi I'm Param Panwar
 Working web development projects<br>Open-source projects, or building tools related to hiring tech, AI, or productivity apps.<br>Advanced DSA, Python, FastAPI, MongoDB.<br>Django, FastAPI, React<br>I wake up at 4:30 AM to get a head start on coding, fitness, and self-improvement!
 
 
