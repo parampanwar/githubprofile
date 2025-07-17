@@ -3,7 +3,7 @@ Working web development projects<br>Open-source projects, or building tools rela
 
 
 ## 🌐 Socials:
-[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/parampanwar36)[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/parampanwar) [!
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/parampanwar36) [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/parampanwar)
 
 # 💻 Languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,nodejs,react,django,git,github,nextjs,netlify,vercel,vscode)]
